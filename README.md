@@ -51,10 +51,10 @@ flowchart LR
 devsecops-monitoring/
 ├── docker-compose.yml
 ├── Dockerfile
-├── app.py
 ├── prometheus.yml
-├── logs/
+├── app/
 │   └── app.log
+│   └── app.py
 └── README.md
 ```
 
@@ -97,6 +97,8 @@ app = Flask(__name__)
 
 LOG_DIR = "/app"
 LOG_FILE = "/app/app.log"
+
+# pastikan folder log ada
 os.makedirs(LOG_DIR, exist_ok=True)
 
 logging.basicConfig(
@@ -122,6 +124,7 @@ def error():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
+
 ```
 
 ---
