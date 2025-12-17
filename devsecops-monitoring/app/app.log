@@ -1,0 +1,260 @@
+2025-12-17 07:21:45,685 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://20.20.20.127:5000
+2025-12-17 07:21:45,685 INFO [33mPress CTRL+C to quit[0m
+2025-12-17 07:22:09,983 WARNING Failed login attempt
+2025-12-17 07:22:09,985 INFO 127.0.0.1 - - [17/Dec/2025 07:22:09] "GET /login HTTP/1.1" 200 -
+2025-12-17 07:22:11,880 WARNING Failed login attempt
+2025-12-17 07:22:11,881 INFO 127.0.0.1 - - [17/Dec/2025 07:22:11] "GET /login HTTP/1.1" 200 -
+2025-12-17 07:22:16,196 WARNING Failed login attempt
+2025-12-17 07:22:16,196 INFO 127.0.0.1 - - [17/Dec/2025 07:22:16] "GET /login HTTP/1.1" 200 -
+2025-12-17 07:22:16,460 WARNING Failed login attempt
+2025-12-17 07:22:16,460 INFO 127.0.0.1 - - [17/Dec/2025 07:22:16] "GET /login HTTP/1.1" 200 -
+2025-12-17 07:22:16,577 WARNING Failed login attempt
+2025-12-17 07:22:16,577 INFO 127.0.0.1 - - [17/Dec/2025 07:22:16] "GET /login HTTP/1.1" 200 -
+2025-12-17 07:22:17,047 WARNING Failed login attempt
+2025-12-17 07:22:17,048 INFO 127.0.0.1 - - [17/Dec/2025 07:22:17] "GET /login HTTP/1.1" 200 -
+2025-12-17 07:22:17,293 WARNING Failed login attempt
+2025-12-17 07:22:17,293 INFO 127.0.0.1 - - [17/Dec/2025 07:22:17] "GET /login HTTP/1.1" 200 -
+2025-12-17 07:22:18,244 WARNING Failed login attempt
+2025-12-17 07:22:18,244 INFO 127.0.0.1 - - [17/Dec/2025 07:22:18] "GET /login HTTP/1.1" 200 -
+2025-12-17 07:22:18,504 WARNING Failed login attempt
+2025-12-17 07:22:18,504 INFO 127.0.0.1 - - [17/Dec/2025 07:22:18] "GET /login HTTP/1.1" 200 -
+2025-12-17 07:22:19,008 WARNING Failed login attempt
+2025-12-17 07:22:19,008 INFO 127.0.0.1 - - [17/Dec/2025 07:22:19] "GET /login HTTP/1.1" 200 -
+2025-12-17 07:22:19,833 WARNING Failed login attempt
+2025-12-17 07:22:19,834 INFO 127.0.0.1 - - [17/Dec/2025 07:22:19] "GET /login HTTP/1.1" 200 -
+2025-12-17 07:22:20,100 WARNING Failed login attempt
+2025-12-17 07:22:20,100 INFO 127.0.0.1 - - [17/Dec/2025 07:22:20] "GET /login HTTP/1.1" 200 -
+2025-12-17 07:33:22,302 WARNING Failed login attempt
+2025-12-17 07:33:22,329 INFO 127.0.0.1 - - [17/Dec/2025 07:33:22] "GET /login HTTP/1.1" 200 -
+2025-12-17 07:33:24,812 WARNING Failed login attempt
+2025-12-17 07:33:24,812 INFO 127.0.0.1 - - [17/Dec/2025 07:33:24] "GET /login HTTP/1.1" 200 -
+2025-12-17 07:33:27,021 WARNING Failed login attempt
+2025-12-17 07:33:27,022 INFO 127.0.0.1 - - [17/Dec/2025 07:33:27] "GET /login HTTP/1.1" 200 -
+2025-12-17 07:50:16,810 WARNING Failed login attempt
+2025-12-17 07:50:16,814 INFO 127.0.0.1 - - [17/Dec/2025 07:50:16] "GET /login HTTP/1.1" 200 -
+2025-12-17 07:50:22,897 WARNING Failed login attempt
+2025-12-17 07:50:22,904 INFO 127.0.0.1 - - [17/Dec/2025 07:50:22] "GET /login HTTP/1.1" 200 -
+2025-12-17 09:38:09,792 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.70.179:5000
+2025-12-17 09:38:09,794 INFO [33mPress CTRL+C to quit[0m
+2025-12-17 09:38:09,984 WARNING Failed login attempt
+2025-12-17 09:38:09,985 INFO 127.0.0.1 - - [17/Dec/2025 09:38:09] "GET /login HTTP/1.1" 200 -
+2025-12-17 09:38:13,491 WARNING Failed login attempt
+2025-12-17 09:38:13,492 INFO 127.0.0.1 - - [17/Dec/2025 09:38:13] "GET /login HTTP/1.1" 200 -
+2025-12-17 09:58:30,731 WARNING Failed login attempt
+2025-12-17 09:58:30,742 INFO 127.0.0.1 - - [17/Dec/2025 09:58:30] "GET /login HTTP/1.1" 200 -
+2025-12-17 09:58:34,287 WARNING Failed login attempt
+2025-12-17 09:58:34,288 INFO 127.0.0.1 - - [17/Dec/2025 09:58:34] "GET /login HTTP/1.1" 200 -
+2025-12-17 09:58:50,451 WARNING Failed login attempt
+2025-12-17 09:58:50,455 INFO 127.0.0.1 - - [17/Dec/2025 09:58:50] "GET /login HTTP/1.1" 200 -
+2025-12-17 09:58:50,770 WARNING Failed login attempt
+2025-12-17 09:58:50,771 INFO 127.0.0.1 - - [17/Dec/2025 09:58:50] "GET /login HTTP/1.1" 200 -
+2025-12-17 09:58:51,627 WARNING Failed login attempt
+2025-12-17 09:58:51,627 INFO 127.0.0.1 - - [17/Dec/2025 09:58:51] "GET /login HTTP/1.1" 200 -
+2025-12-17 09:58:51,882 WARNING Failed login attempt
+2025-12-17 09:58:51,883 INFO 127.0.0.1 - - [17/Dec/2025 09:58:51] "GET /login HTTP/1.1" 200 -
+2025-12-17 09:58:52,172 WARNING Failed login attempt
+2025-12-17 09:58:52,173 INFO 127.0.0.1 - - [17/Dec/2025 09:58:52] "GET /login HTTP/1.1" 200 -
+2025-12-17 09:58:52,463 WARNING Failed login attempt
+2025-12-17 09:58:52,464 INFO 127.0.0.1 - - [17/Dec/2025 09:58:52] "GET /login HTTP/1.1" 200 -
+2025-12-17 09:58:52,726 WARNING Failed login attempt
+2025-12-17 09:58:52,726 INFO 127.0.0.1 - - [17/Dec/2025 09:58:52] "GET /login HTTP/1.1" 200 -
+2025-12-17 09:58:53,040 WARNING Failed login attempt
+2025-12-17 09:58:53,040 INFO 127.0.0.1 - - [17/Dec/2025 09:58:53] "GET /login HTTP/1.1" 200 -
+2025-12-17 07:42:59,509 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.6:5000
+2025-12-17 07:42:59,511 INFO [33mPress CTRL+C to quit[0m
+2025-12-17 07:43:24,088 WARNING Failed login attempt
+2025-12-17 07:43:24,162 INFO 172.18.0.1 - - [17/Dec/2025 07:43:24] "GET /login HTTP/1.1" 200 -
+2025-12-17 07:43:33,405 ERROR Application error occurred
+2025-12-17 07:43:33,410 ERROR Exception on /error [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/app/app.py", line 32, in error
+    return 1 / 0
+ZeroDivisionError: division by zero
+2025-12-17 07:43:33,480 INFO 172.18.0.1 - - [17/Dec/2025 07:43:33] "[35m[1mGET /error HTTP/1.1[0m" 500 -
+2025-12-17 07:45:32,054 INFO User accessed home page
+2025-12-17 07:45:32,140 INFO 172.18.0.1 - - [17/Dec/2025 07:45:32] "GET / HTTP/1.1" 200 -
+2025-12-17 07:45:32,693 INFO User accessed home page
+2025-12-17 07:45:32,698 INFO 172.18.0.1 - - [17/Dec/2025 07:45:32] "GET / HTTP/1.1" 200 -
+2025-12-17 07:45:36,449 WARNING Failed login attempt
+2025-12-17 07:45:36,451 INFO 172.18.0.1 - - [17/Dec/2025 07:45:36] "GET /login HTTP/1.1" 200 -
+2025-12-17 07:45:42,352 ERROR Application error occurred
+2025-12-17 07:45:42,353 ERROR Exception on /error [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/app/app.py", line 32, in error
+    return 1 / 0
+ZeroDivisionError: division by zero
+2025-12-17 07:45:42,377 INFO 172.18.0.1 - - [17/Dec/2025 07:45:42] "[35m[1mGET /error HTTP/1.1[0m" 500 -
+2025-12-17 08:02:21,149 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.4:5000
+2025-12-17 08:02:21,152 INFO [33mPress CTRL+C to quit[0m
+2025-12-17 08:03:11,919 ERROR Application error occurred
+2025-12-17 08:03:11,948 ERROR Exception on /error [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/app/app.py", line 32, in error
+    return 1 / 0
+ZeroDivisionError: division by zero
+2025-12-17 08:03:12,191 INFO 172.18.0.1 - - [17/Dec/2025 08:03:12] "[35m[1mGET /error HTTP/1.1[0m" 500 -
+2025-12-17 08:03:13,674 INFO User accessed home page
+2025-12-17 08:03:13,683 INFO 172.18.0.1 - - [17/Dec/2025 08:03:13] "GET / HTTP/1.1" 200 -
+2025-12-17 08:20:31,778 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.6:5000
+2025-12-17 08:20:31,782 INFO [33mPress CTRL+C to quit[0m
+2025-12-17 08:21:16,733 INFO User accessed home page
+2025-12-17 08:21:16,774 INFO 172.18.0.1 - - [17/Dec/2025 08:21:16] "GET / HTTP/1.1" 200 -
+2025-12-17 08:21:19,065 ERROR Application error occurred
+2025-12-17 08:21:19,069 ERROR Exception on /error [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/app/app.py", line 32, in error
+    return 1 / 0
+ZeroDivisionError: division by zero
+2025-12-17 08:21:19,107 INFO 172.18.0.1 - - [17/Dec/2025 08:21:19] "[35m[1mGET /error HTTP/1.1[0m" 500 -
+2025-12-17 08:36:34,117 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.6:5000
+2025-12-17 08:36:34,122 INFO [33mPress CTRL+C to quit[0m
+2025-12-17 08:37:38,408 INFO User accessed home page
+2025-12-17 08:37:39,051 INFO 172.18.0.1 - - [17/Dec/2025 08:37:39] "GET / HTTP/1.1" 200 -
+2025-12-17 08:37:41,363 ERROR Application error occurred
+2025-12-17 08:37:41,367 ERROR Exception on /error [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/app/app.py", line 32, in error
+    return 1 / 0
+ZeroDivisionError: division by zero
+2025-12-17 08:37:41,423 INFO 172.18.0.1 - - [17/Dec/2025 08:37:41] "[35m[1mGET /error HTTP/1.1[0m" 500 -
+2025-12-17 08:38:15,663 INFO User accessed home page
+2025-12-17 08:38:15,671 INFO 172.18.0.1 - - [17/Dec/2025 08:38:15] "GET / HTTP/1.1" 200 -
+2025-12-17 08:38:16,500 INFO User accessed home page
+2025-12-17 08:38:16,507 INFO 172.18.0.1 - - [17/Dec/2025 08:38:16] "GET / HTTP/1.1" 200 -
+2025-12-17 08:38:17,398 INFO User accessed home page
+2025-12-17 08:38:17,399 INFO 172.18.0.1 - - [17/Dec/2025 08:38:17] "GET / HTTP/1.1" 200 -
+2025-12-17 08:42:15,767 WARNING Failed login attempt
+2025-12-17 08:42:15,852 INFO 172.18.0.1 - - [17/Dec/2025 08:42:15] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:42:18,288 ERROR Application error occurred
+2025-12-17 08:42:18,309 ERROR Exception on /error [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/app/app.py", line 32, in error
+    return 1 / 0
+ZeroDivisionError: division by zero
+2025-12-17 08:42:18,557 INFO 172.18.0.1 - - [17/Dec/2025 08:42:18] "[35m[1mGET /error HTTP/1.1[0m" 500 -
+2025-12-17 08:50:08,221 WARNING Failed login attempt
+2025-12-17 08:50:08,269 INFO 172.18.0.1 - - [17/Dec/2025 08:50:08] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:08,480 WARNING Failed login attempt
+2025-12-17 08:50:08,482 INFO 172.18.0.1 - - [17/Dec/2025 08:50:08] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:08,534 WARNING Failed login attempt
+2025-12-17 08:50:08,535 INFO 172.18.0.1 - - [17/Dec/2025 08:50:08] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:08,588 WARNING Failed login attempt
+2025-12-17 08:50:08,590 INFO 172.18.0.1 - - [17/Dec/2025 08:50:08] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:08,638 WARNING Failed login attempt
+2025-12-17 08:50:08,640 INFO 172.18.0.1 - - [17/Dec/2025 08:50:08] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:08,696 WARNING Failed login attempt
+2025-12-17 08:50:08,697 INFO 172.18.0.1 - - [17/Dec/2025 08:50:08] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:08,748 WARNING Failed login attempt
+2025-12-17 08:50:08,749 INFO 172.18.0.1 - - [17/Dec/2025 08:50:08] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:08,798 WARNING Failed login attempt
+2025-12-17 08:50:08,799 INFO 172.18.0.1 - - [17/Dec/2025 08:50:08] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:08,838 WARNING Failed login attempt
+2025-12-17 08:50:08,839 INFO 172.18.0.1 - - [17/Dec/2025 08:50:08] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:08,898 WARNING Failed login attempt
+2025-12-17 08:50:08,899 INFO 172.18.0.1 - - [17/Dec/2025 08:50:08] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:08,948 WARNING Failed login attempt
+2025-12-17 08:50:08,949 INFO 172.18.0.1 - - [17/Dec/2025 08:50:08] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:08,996 WARNING Failed login attempt
+2025-12-17 08:50:08,997 INFO 172.18.0.1 - - [17/Dec/2025 08:50:08] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:09,043 WARNING Failed login attempt
+2025-12-17 08:50:09,044 INFO 172.18.0.1 - - [17/Dec/2025 08:50:09] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:09,088 WARNING Failed login attempt
+2025-12-17 08:50:09,089 INFO 172.18.0.1 - - [17/Dec/2025 08:50:09] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:09,132 WARNING Failed login attempt
+2025-12-17 08:50:09,132 INFO 172.18.0.1 - - [17/Dec/2025 08:50:09] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:09,178 WARNING Failed login attempt
+2025-12-17 08:50:09,178 INFO 172.18.0.1 - - [17/Dec/2025 08:50:09] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:09,220 WARNING Failed login attempt
+2025-12-17 08:50:09,221 INFO 172.18.0.1 - - [17/Dec/2025 08:50:09] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:09,264 WARNING Failed login attempt
+2025-12-17 08:50:09,264 INFO 172.18.0.1 - - [17/Dec/2025 08:50:09] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:09,309 WARNING Failed login attempt
+2025-12-17 08:50:09,310 INFO 172.18.0.1 - - [17/Dec/2025 08:50:09] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:09,355 WARNING Failed login attempt
+2025-12-17 08:50:09,356 INFO 172.18.0.1 - - [17/Dec/2025 08:50:09] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:09,402 WARNING Failed login attempt
+2025-12-17 08:50:09,403 INFO 172.18.0.1 - - [17/Dec/2025 08:50:09] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:09,452 WARNING Failed login attempt
+2025-12-17 08:50:09,453 INFO 172.18.0.1 - - [17/Dec/2025 08:50:09] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:09,517 WARNING Failed login attempt
+2025-12-17 08:50:09,518 INFO 172.18.0.1 - - [17/Dec/2025 08:50:09] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:09,580 WARNING Failed login attempt
+2025-12-17 08:50:09,581 INFO 172.18.0.1 - - [17/Dec/2025 08:50:09] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:09,636 WARNING Failed login attempt
+2025-12-17 08:50:09,637 INFO 172.18.0.1 - - [17/Dec/2025 08:50:09] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:09,701 WARNING Failed login attempt
+2025-12-17 08:50:09,702 INFO 172.18.0.1 - - [17/Dec/2025 08:50:09] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:09,772 WARNING Failed login attempt
+2025-12-17 08:50:09,773 INFO 172.18.0.1 - - [17/Dec/2025 08:50:09] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:09,827 WARNING Failed login attempt
+2025-12-17 08:50:09,828 INFO 172.18.0.1 - - [17/Dec/2025 08:50:09] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:09,881 WARNING Failed login attempt
+2025-12-17 08:50:09,881 INFO 172.18.0.1 - - [17/Dec/2025 08:50:09] "GET /login HTTP/1.1" 200 -
+2025-12-17 08:50:09,937 WARNING Failed login attempt
+2025-12-17 08:50:09,937 INFO 172.18.0.1 - - [17/Dec/2025 08:50:09] "GET /login HTTP/1.1" 200 -
