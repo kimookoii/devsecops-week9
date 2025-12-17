@@ -49,13 +49,12 @@ flowchart LR
 
 ```text
 devsecops-monitoring/
-├── docker-compose.yml
-├── Dockerfile
-├── prometheus.yml
 ├── app/
 │   └── app.log
 │   └── app.py
-└── README.md
+├── Dockerfile
+├── docker-compose.yml
+└── prometheus.yml
 ```
 
 ---
